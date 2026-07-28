@@ -101,10 +101,4 @@ Readiness Probe: Ensures the application is ready to receive traffic
 
 Both probes are implemented using the /healthz endpoint.
 
-Author
 
-Mark Sherif
-
-Ahmed Alaa
-
-Youssef Yasser
